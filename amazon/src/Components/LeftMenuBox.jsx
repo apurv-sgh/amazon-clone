@@ -40,3 +40,4 @@ export const LeftMenuBox2 = ({ title, listDetail }) => {
     </div>
   );
 };
+

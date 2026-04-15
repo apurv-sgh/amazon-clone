@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <>
-      <div className="flex justify-between items-center h-[60px] py-2 fixed left-0 right-0 z-[999] bg-[#131921] cursor-pointer">
+      <div className="flex justify-between items-center h-15 py-2 fixed left-0 right-0 z-999 bg-[#131921] cursor-pointer">
         <div className=" mx-4 flex justify-center items-center">
           <div className=" w-28 border border-transparent hover:border-white p-2 h-12">
             <Link to={'/'}>
@@ -31,9 +31,9 @@ const Header = () => {
             </div>
           </div>
         </div>
-        <div className="flex-1 rounded-[6px]">
-          <div className="bg-white rounded-[6px] m-1 flex justify-center items-center h-10 border border-transparent focus-within:ring-3 focus-within:ring-[#f08804]">
-            <select className="bg-[#dadada] text-black text-[0.9rem] p-2 rounded-l-[6px] h-10 border-0 outline-none cursor-pointer">
+        <div className="flex-1 rounded-md">
+          <div className="bg-white rounded-md m-1 flex justify-center items-center h-10 border border-transparent focus-within:ring-3 focus-within:ring-[#f08804]">
+            <select className="bg-[#dadada] text-black text-[0.9rem] p-2 rounded-l-md h-10 border-0 outline-none cursor-pointer">
               <option defaultValue="all">
                 All Categories
               </option>
@@ -46,7 +46,7 @@ const Header = () => {
               type="text"
               placeholder="Search Amazon.in"
             />
-            <button className="bg-[#f3a847] text-[#131921] px-3 rounded-r-[6px] h-10 border-0 outline-none cursor-pointer">
+            <button className="bg-[#f3a847] text-[#131921] px-3 rounded-r-md h-10 border-0 outline-none cursor-pointer">
               <SearchIcon />
             </button>
           </div>

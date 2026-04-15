@@ -17,7 +17,7 @@ const Footer = () => {
           Back to top
 
         </div>
-        <div className=" max-w-[1000px] mx-auto">
+        <div className=" max-w-250 mx-auto">
           <div className=" flex justify-between py-12">
             <FooterUiLi heading='Get to Know Us' FooterItem={GettoKnowUs} />
             <FooterUiLi heading='Connect with Us' FooterItem={ConnectwithUs} />
@@ -30,7 +30,7 @@ const Footer = () => {
 
       {/* Country section */}
       <div className=" bg-[#131921]">
-        <div className="max-w-[1000px] mx-auto py-2 flex justify-center items-center">
+        <div className="max-w-250 mx-auto py-2 flex justify-center items-center">
           <div className=" w-24">
             <Link to={'/'}>
               <img className="w-full h-auto" src={assetsImg.FooterLogoImg} alt="" />
@@ -45,12 +45,12 @@ const Footer = () => {
             </span>
           </div>
           <div className="flex justify-center items-center gap-2 m-4 text-[#cad0d8] border border-[#3a4553] p-2.5 rounded-md">
-            <img className="p-2 h-[45px]" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.4/flags/4x3/in.svg" />
+            <img className="p-2 h-11.25" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.4/flags/4x3/in.svg" />
             <span className="p-2">India</span>
           </div>
         </div>
         {/* Countries */}
-        <div className="max-w-[1000px] mx-auto flex justify-center items-center flex-wrap pb-8 gap-2 text-[12px] text-[#cacacb]">
+        <div className="max-w-250 mx-auto flex justify-center items-center flex-wrap pb-8 gap-2 text-[12px] text-[#cacacb]">
           {[
             "Australia", "Brazil", "Canada", "China", "France", "Germany", "Italy", "Japan",
             "Mexico", "Netherlands", "Poland", "Singapore", "Spain", "Turkey",
@@ -59,7 +59,7 @@ const Footer = () => {
             <span key={country} className="p-1 cursor-pointer hover:underline">{country}</span>
           ))}
         </div>
-        <div className="max-w-[1000px] mx-auto flex justify-center items-center flex-wrap pb-8 pt-5 gap-2 text-[14px] text-[#cacacb]">
+        <div className="max-w-250 mx-auto flex justify-center items-center flex-wrap pb-8 pt-5 gap-2 text-[14px] text-[#cacacb]">
           <p>
             © Copyright {currentYear} by Debabrata Das | All rights reserved
           </p>
@@ -70,6 +70,7 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
 
 

@@ -7,7 +7,7 @@ import PrimeSlider from "./PrimeSlider";
 const MainSection = () => {
   return (
     <>
-      <div className="max-w-[1500px] mx-auto">
+      <div className="max-w-375 mx-auto">
         <PrimeSlider />
         <div className=" flex justify-start m-2">
           <ProductCard

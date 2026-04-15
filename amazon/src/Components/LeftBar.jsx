@@ -43,8 +43,8 @@ const LeftBar = () => {
   // );
   return (
     <>
-      <div className={`${open ? "fixed inset-0 z-[999] bg-[#000000bd] block" : "hidden"}`}>
-        <div className={`fixed top-0 left-0 w-[26rem] bg-white overflow-hidden transition-transform duration-300 ${open ? "translate-x-0" : "-translate-x-full"}`}>
+      <div className={`${open ? "fixed inset-0 z-999 bg-[#000000bd] block" : "hidden"}`}>
+        <div className={`fixed top-0 left-0 w-104 bg-white overflow-hidden transition-transform duration-300 ${open ? "translate-x-0" : "-translate-x-full"}`}>
           <div className="bg-[#232f3e] sticky left-0 right-0 py-4 px-6 flex items-center text-white text-[1.2rem] font-semibold justify-between">
             <div className=" flex gap-2 items-center p-2 leading-4">
               <AccountCircleIcon />

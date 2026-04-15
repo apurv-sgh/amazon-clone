@@ -4,7 +4,7 @@ export const ProductCard = (props) => {
   const { title, img, offer } = props;
   return (
     <>
-      <div className="bg-white py-4 relative z-10 text-black w-full max-w-[400px] mx-2 flex flex-col justify-evenly">
+      <div className="bg-white py-4 relative z-10 text-black w-full max-w-100 mx-2 flex flex-col justify-evenly">
         <div>
           <h1 className=" px-4 overflow-hidden">{title}</h1>
         </div>
@@ -23,7 +23,7 @@ export const ProductCard2 = (props) => {
   const { title, Detail } = props;
   return (
     <>
-      <div className="bg-white py-4 relative z-10 text-black w-full max-w-[400px] mx-2 flex flex-col justify-evenly">
+      <div className="bg-white py-4 relative z-10 text-black w-full max-w-100 mx-2 flex flex-col justify-evenly">
         <div>
           <h1 className="px-4 overflow-hidden">{title}</h1>
         </div>
@@ -32,7 +32,7 @@ export const ProductCard2 = (props) => {
             Detail.map((item) => (
               <div className="" key={item.id}>
                 <img className=" w-full" src={item.offerImage} />
-                <p className="text-sm font-semibold leading-[18px] overflow-hidden text-ellipsis max-w-[146px] max-h-[36px]">{item.offer}</p>
+                <p className="text-sm font-semibold leading-4.5 overflow-hidden text-ellipsis max-w-36.5 max-h-9">{item.offer}</p>
               </div>
             ))
           }

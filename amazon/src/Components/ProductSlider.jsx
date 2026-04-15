@@ -10,7 +10,7 @@ const ProductSlider = () => {
   return (
     <>
       <div className=" relative bg-white m-4 p-4">
-        <div className="flex justify-start items-center px-[5px]">
+        <div className="flex justify-start items-center px-1.25">
           <h1 className=" text-black">Today's Deals </h1>
           <span className="text-[#007185] no-underline cursor-pointer transition-all duration-300 ease-in-out px-4 overflow-hidden hover:text-red-500">See all deals</span>
         </div>
@@ -23,7 +23,7 @@ const ProductSlider = () => {
       <ProductCardSlider Product={headphonesDetail} />
 
       <div className=" relative bg-white m-4 p-4">
-        <div className="flex justify-start items-center px-[5px]">
+        <div className="flex justify-start items-center px-1.25">
           <h1 className=" text-black">Today's Deals </h1>
           <span className="text-[#007185] no-underline cursor-pointer transition-all duration-300 ease-in-out px-4 overflow-hidden hover:text-red-500">See all deals</span>
         </div>
@@ -91,7 +91,7 @@ const ProductCard2 = ({ productImage, productName, id }) => {
       <div className=" flex flex-col p-2 text-black w-fit" >
         <div className=" bg-[#f7f8f8] flex justify-center">
           <img
-            className=" w-[180px] h-[200px]"
+            className=" w-45 h-50"
             src={productImage}
             alt="" />
         </div>
@@ -106,3 +106,4 @@ const ProductCard2 = ({ productImage, productName, id }) => {
     </Link>
   );
 };
+
