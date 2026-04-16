@@ -122,7 +122,7 @@ const Iphone14_06 = "/ProductImage/iphoneImg/iphone14/iphone14-06.jpg";
 const Iphone14_07 = "/ProductImage/iphoneImg/iphone14/iphone14-07.jpg";
 
 ////////// Iphone - 14pro-Max
-// const Iphone14pro_max = "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max.jpg";
+const Iphone14pro_max = "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max.jpg";
 const Iphone14pro_max_black = "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-black.jpg";
 const Iphone14pro_max_gold = "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-gold.jpg";
 const Iphone14pro_max_purple = "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-purple.jpg";
@@ -866,7 +866,7 @@ export const ProductDetail = [
     price: "129900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14pro_max_01,
+    image: Iphone14pro_max,
     smallImg: [
       {
         id: 1,
