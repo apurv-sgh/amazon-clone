@@ -1,46 +1,65 @@
-import { useReducer, useState } from "react";
+import React from "react";
+import { useState, useEffect } from "react";
 import CartContext from "./CartContext";
 
-// const inialState = {
-//     cart : [],
-//     total_item: '',
-//     total_amount: '',
-//     shipping_fee :50
-// };
-
 const Context = (props) => {
-  // const [ state, dispatch] = useReducer(reducer, inialState)
-
-  // const addToCart = ({id, name, price}) => {
-  //     dispatch({type : 'ADD_TO_CART', payload: {id, name, price} })
-  // }
-
   const [open, setOpen] = useState(false);
+  const [user_id, setUser_id] = useState(1); // Simple integer user_id
+  const [productList, setProductList] = useState([]);
+  const [qyt, setQyt] = useState();
+
+  // Initialize - user_id is always 1 (demo session)
+  useEffect(() => {
+    setUser_id(1); // Fixed to integer
+    console.log(' Context initialized with user_id: 1');
+  }, []);
+
   const openButton = () => setOpen(true);
   const closeButton = () => setOpen(false);
 
-  const [productList, setProductList] = useState([]);
-
-  console.log(productList)
-
-  function addtoCart(id, name, price, status, image) {
+  //  ADD TO CART (LOCAL STATE - simple and reliable)
+  const addtoCart = (id, name, price, status, image) => {
+    // Check if item already exists
+    const existingItem = productList.find(item => item.id === id);
+    
+    if (existingItem) {
+      // Item already in cart
+      return;
+    }
+    
     const newItem = { id, name, price, status, image };
     setProductList((prevState) => [...prevState, newItem]);
-  }
+  };
 
-  function removeCart(id) {
+  //  REMOVE FROM CART
+  const removeCart = (id) => {
     setProductList((prevState) => prevState.filter((item) => item.id !== id));
-  }
+  };
 
-  const [qyt, setQyt] = useState();
+  //  QUANTITY CHANGE
   const handleQytChange = (event) => {
     setQyt(event.target.value);
   };
 
+  // Clear cart after order
+  const clearCart = () => {
+    setProductList([]);
+  };
 
   return (
     <CartContext.Provider
-      value={{ open, openButton, closeButton, productList, addtoCart, removeCart}} >
+      value={{
+        open,
+        openButton,
+        closeButton,
+        productList,
+        addtoCart,
+        removeCart,
+        clearCart,
+        user_id,
+        handleQytChange,
+      }}
+    >
       {props.children}
     </CartContext.Provider>
   );
