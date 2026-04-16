@@ -4,7 +4,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import LeftBar from "./LeftBar";
 import CartContext from "../ContextApi/CartContext";
 import { NavBarItem } from "../Data/data";
-import navbarAd from "../assets/navbar-ad.jpg";
+import navbarAd from "/navbar-ad.jpg";
 
 const NavBar = () => {
 

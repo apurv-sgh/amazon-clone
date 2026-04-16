@@ -1,13 +1,13 @@
-import ImgP1 from "../assets/ProductImage/p1.jpg";
-import ImgP2 from "../assets/ProductImage/p2.jpg";
-import ImgP3 from "../assets/ProductImage/p3.jpg";
-import ImgP4 from "../assets/ProductImage/p4.jpg";
-import ImgP5 from "../assets/ProductImage/p5.jpg";
-import ImgP6 from "../assets/ProductImage/p6.jpg";
-import ImgP7 from "../assets/ProductImage/p7.jpg";
-import ImgP8 from "../assets/ProductImage/p8.jpg";
-import ImgP9 from "../assets/ProductImage/p9.jpg";
-import ImgP10 from "../assets/ProductImage/p10.jpg";
+import ImgP1 from "/ProductImage/p1.jpg";
+import ImgP2 from "/ProductImage/p2.jpg";
+import ImgP3 from "/ProductImage/p3.jpg";
+import ImgP4 from "/ProductImage/p4.jpg";
+import ImgP5 from "/ProductImage/p5.jpg";
+import ImgP6 from "/ProductImage/p6.jpg";
+import ImgP7 from "/ProductImage/p7.jpg";
+import ImgP8 from "/ProductImage/p8.jpg";
+import ImgP9 from "/ProductImage/p9.jpg";
+import ImgP10 from "/ProductImage/p10.jpg";
 import { GiP90 } from "react-icons/gi";
 
 
