@@ -1,3 +1,4 @@
+import React from "react";
 import { WatchDetail, ProductDetail, LaptopDetail, headphonesDetail } from "../Data/ProductDetail";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";

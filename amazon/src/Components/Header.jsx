@@ -37,9 +37,40 @@ const Header = () => {
               <option defaultValue="all">
                 All Categories
               </option>
-              <option value="saab">Saab</option>
-              <option value="vw">VW</option>
-              <option value="audi">Audi</option>
+              <option value="amazon-pharmacy">Alexa Skills</option>
+              <option value="amazon-pharmacy">Amazon Devices</option>
+              <option value="amazon-pharmacy">Amazon Fashion</option>
+              <option value="amazon-pharmacy">Amazon Pharmacy</option>
+              <option value="appliances">Appliances</option>
+              <option value="mobile-apps">Apps & Games</option>
+              <option value="audible">Audible Audiobooks</option>
+              <option value="baby">Baby</option>
+              <option value="beauty">Beauty</option>
+              <option value="books">Books</option>
+              <option value="automotive">Car & Motorbike</option>
+              <option value="apparel">Clothing & Accessories</option>
+              <option value="collectibles">Collectibles</option>
+              <option value="computers">Computers & Accessories</option>
+              <option value="today-deals">Deals</option>
+              <option value="electronics">Electronics</option>
+              <option value="furniture">Furniture</option>
+              <option value="garden">Garden & Outdoors</option>
+              <option value="gift-cards">Gift Cards</option>
+              <option value="grocery">Grocery & Gourmet Foods</option>
+              <option value="health">Health & Personal Care</option>
+              <option value="kitchen">Home & Kitchen</option>
+              <option value="industrial">Industrial & Scientific</option>
+              <option value="jewelry">Jewellery</option>
+              <option value="kindle">Kindle Store</option>
+              <option value="luggage">Luggage & Bags</option>
+              <option value="luxury-beauty">Luxury Beauty</option>
+              <option value="movies">Movies & TV Shows</option>
+              <option value="digital-music">MP3 Music</option>
+              <option value="music">Music</option>
+              <option value="musical-instruments">Musical Instruments</option>
+              <option value="office-products">Office Products</option>
+              <option value="pets">Pet Supplies</option>
+              <option value="prime-video">Prime Video</option>
             </select>
             <input
               className="text-xl flex-1 px-3 h-fit text-black border-0 outline-none"

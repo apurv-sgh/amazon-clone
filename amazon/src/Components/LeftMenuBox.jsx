@@ -1,3 +1,4 @@
+import React from "react";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 
 export const LeftMenuBox = ({ title, listDetail }) => {

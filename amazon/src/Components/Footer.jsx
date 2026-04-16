@@ -1,3 +1,4 @@
+import React from "react";
 import { GettoKnowUs, ConnectwithUs, MakeMoneywithUs, LetUsHelpYou, assetsImg } from "../Data/data";
 import { Link } from "react-router-dom";
 import LanguageIcon from '@mui/icons-material/Language';
@@ -61,7 +62,7 @@ const Footer = () => {
         </div>
         <div className="max-w-250 mx-auto flex justify-center items-center flex-wrap pb-8 pt-5 gap-2 text-[14px] text-[#cacacb]">
           <p>
-            © Copyright {currentYear} by Debabrata Das | All rights reserved
+            © Copyright {currentYear} by Apurv Kumar | All rights reserved
           </p>
         </div>
       </div>
