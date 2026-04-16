@@ -38,7 +38,7 @@ export const getCart = async (req, res) => {
     if (!user_id) {
       return res.status(400).json({
         success: false,
-        message: 'Session ID is required',
+        message: 'user ID is required',
       });
     }
 
@@ -105,7 +105,7 @@ export const addToCart = async (req, res) => {
     if (!user_id || !productId) {
       return res.status(400).json({
         success: false,
-        message: 'Session ID and Product ID are required',
+        message: 'user ID and Product ID are required',
       });
     }
 
