@@ -1,30 +1,30 @@
 ////////////////////////////////////////
 ///////  AssestsImage Section  /////////
 ///////////////////////////////////////
-import amazonLogo from "/amazonlog.png";
+const amazonLogo = "/amazonlog.png";
 
-import BannerImg1 from "/Banner/banner1.jpg";
-import BannerImg2 from "/Banner/banner2.jpg";
-import BannerImg3 from "/Banner/banner3.jpg";
-import BannerImg4 from "/Banner/banner4.jpg";
-import BannerImg5 from "/Banner/banner5.jpg";
-import BannerImg6 from "/Banner/banner6.jpg";
+const BannerImg1 = "/Banner/banner1.jpg";
+const BannerImg2 = "/Banner/banner2.jpg";
+const BannerImg3 = "/Banner/banner3.jpg";
+const BannerImg4 = "/Banner/banner4.jpg";
+const BannerImg5 = "/Banner/banner5.jpg";
+const BannerImg6 = "/Banner/banner6.jpg";
 
 
-import offerImgS3 from "/ProductImage/s3.jpg";
-import offerImgS1 from "/ProductImage/s1.jpg";
-import offerImgS2 from "/ProductImage/s2.jpg";
-import offerImgS4 from "/ProductImage/s4.jpg";
-import offerImgS5 from "/ProductImage/s5.jpg";
-import offerImgS6 from "/ProductImage/s6.jpg";
-import offerImgS7 from "/ProductImage/s7.jpg";
-import offerImgS8 from "/ProductImage/s8.jpg";
-import offerImgS9 from "/ProductImage/s9.jpg";
-import offerImgS10 from "/ProductImage/s10.jpg";
-import offerImgS11 from "/ProductImage/s11.jpg";
-import offerImgS12 from "/ProductImage/s12.jpg";
-import offerImgB1 from "/ProductImage/b1.jpg";
-import offerImgB2 from "/ProductImage/b2.jpg";
+const offerImgS3 = "/ProductImage/s3.jpg";
+const offerImgS1 = "/ProductImage/s1.jpg";
+const offerImgS2 = "/ProductImage/s2.jpg";
+const offerImgS4 = "/ProductImage/s4.jpg";
+const offerImgS5 = "/ProductImage/s5.jpg";
+const offerImgS6 = "/ProductImage/s6.jpg";
+const offerImgS7 = "/ProductImage/s7.jpg";
+const offerImgS8 = "/ProductImage/s8.jpg";
+const offerImgS9 = "/ProductImage/s9.jpg";
+const offerImgS10 = "/ProductImage/s10.jpg";
+const offerImgS11 = "/ProductImage/s11.jpg";
+const offerImgS12 = "/ProductImage/s12.jpg";
+const offerImgB1 = "/ProductImage/b1.jpg";
+const offerImgB2 = "/ProductImage/b2.jpg";
 
 
 
@@ -34,23 +34,23 @@ import offerImgB2 from "/ProductImage/b2.jpg";
 ///////////////////////////////////////
 
 ///////// ShippingDetails
-import ShippingImg_1 from "/ProductImage/shipping1.png";
-import ShippingImg_2 from "/ProductImage/shipping2.png";
-import ShippingImg_3 from "/ProductImage/shipping3.png";
-import ShippingImg_4 from "/ProductImage/shipping4.png";
-import ShippingImg_5 from "/ProductImage/shipping5.png";
-import ShippingImg_6 from "/ProductImage/shipping6.png";
-import ShippingImg_7 from "/ProductImage/shipping7.png";
-// import ShippingImg_8 from "/ProductImage/shipping8.png";
-// import ShippingImg_9 from "/ProductImage/shipping9.png";
-import ShippingImg_10 from "/ProductImage/shipping10.png";
+const ShippingImg_1 = "/ProductImage/shipping1.png";
+const ShippingImg_2 = "/ProductImage/shipping2.png";
+const ShippingImg_3 = "/ProductImage/shipping3.png";
+const ShippingImg_4 = "/ProductImage/shipping4.png";
+const ShippingImg_5 = "/ProductImage/shipping5.png";
+const ShippingImg_6 = "/ProductImage/shipping6.png";
+const ShippingImg_7 = "/ProductImage/shipping7.png";
+// const ShippingImg_8 = "/ProductImage/shipping8.png";
+// const ShippingImg_9 = "/ProductImage/shipping9.png";
+const ShippingImg_10 = "/ProductImage/shipping10.png";
 
 //////////// ColorDetails
-import ProductIconImg_1 from "/ProductImage/productIcon1.jpg";
-import ProductIconImg_2 from "/ProductImage/productIcon2.jpg";
-import ProductIconImg_3 from "/ProductImage/productIcon3.jpg";
-import ProductIconImg_4 from "/ProductImage/productIcon4.jpg";
-import ProductIconImg_5 from "/ProductImage/productIcon5.jpg";
+const ProductIconImg_1 = "/ProductImage/productIcon1.jpg";
+const ProductIconImg_2 = "/ProductImage/productIcon2.jpg";
+const ProductIconImg_3 = "/ProductImage/productIcon3.jpg";
+const ProductIconImg_4 = "/ProductImage/productIcon4.jpg";
+const ProductIconImg_5 = "/ProductImage/productIcon5.jpg";
 
 
 
@@ -359,8 +359,8 @@ export const StylesForMen = [
 ////////////////////////////////////////
 ///////////  FooterDetails  ////////////
 ///////////////////////////////////////
-import FooterLogoImg from "/amazonlog.png"
-import { Battery4Bar } from "@mui/icons-material";
+const FooterLogoImg = "/amazonlog.png"
+const { Battery4Bar } = "@mui/icons-material";
 
 
 

@@ -1,14 +1,14 @@
-import ImgP1 from "/ProductImage/p1.jpg";
-import ImgP2 from "/ProductImage/p2.jpg";
-import ImgP3 from "/ProductImage/p3.jpg";
-import ImgP4 from "/ProductImage/p4.jpg";
-import ImgP5 from "/ProductImage/p5.jpg";
-import ImgP6 from "/ProductImage/p6.jpg";
-import ImgP7 from "/ProductImage/p7.jpg";
-import ImgP8 from "/ProductImage/p8.jpg";
-import ImgP9 from "/ProductImage/p9.jpg";
-import ImgP10 from "/ProductImage/p10.jpg";
-import { GiP90 } from "react-icons/gi";
+const ImgP1 = "/ProductImage/p1.jpg";
+const ImgP2 = "/ProductImage/p2.jpg";
+const ImgP3 = "/ProductImage/p3.jpg";
+const ImgP4 = "/ProductImage/p4.jpg";
+const ImgP5 = "/ProductImage/p5.jpg";
+const ImgP6 = "/ProductImage/p6.jpg";
+const ImgP7 = "/ProductImage/p7.jpg";
+const ImgP8 = "/ProductImage/p8.jpg";
+const ImgP9 = "/ProductImage/p9.jpg";
+const ImgP10 = "/ProductImage/p10.jpg";
+const { GiP90 } = "react-icons/gi";
 
 
 export const TodaysDeals = [
