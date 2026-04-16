@@ -1,36 +1,36 @@
 ////////////////////////////////////////
 ///////  AssestsImage Section  /////////
 ///////////////////////////////////////
-const amazonLogo = "=/amazonlog.png";
+const amazonLogo = "/amazonlog.png";
 
-const BannerImg1 = "=/Banner/banner1.jpg";
-const BannerImg2 = "=/Banner/banner2.jpg";
-const BannerImg3 = "=/Banner/banner3.jpg";
-const BannerImg4 = "=/Banner/banner4.jpg";
-const BannerImg5 = "=/Banner/banner5.jpg";
-const BannerImg6 = "=/Banner/banner6.jpg";
+const BannerImg1 = "/Banner/banner1.jpg";
+const BannerImg2 = "/Banner/banner2.jpg";
+const BannerImg3 = "/Banner/banner3.jpg";
+const BannerImg4 = "/Banner/banner4.jpg";
+const BannerImg5 = "/Banner/banner5.jpg";
+const BannerImg6 = "/Banner/banner6.jpg";
 
 
-const offerImgS3 = "=/ProductImage/s3.jpg";
-const offerImgS1 = "=/ProductImage/s1.jpg";
-const offerImgS2 = "=/ProductImage/s2.jpg";
-const offerImgS4 = "=/ProductImage/s4.jpg";
-const offerImgS5 = "=/ProductImage/s5.jpg";
-const offerImgS6 = "=/ProductImage/s6.jpg";
-const offerImgS7 = "=/ProductImage/s7.jpg";
-const offerImgS8 = "=/ProductImage/s8.jpg";
-const offerImgS9 = "=/ProductImage/s9.jpg";
-const offerImgS10 = "=/ProductImage/s10.jpg";
-const offerImgS11 = "=/ProductImage/s11.jpg";
-const offerImgS12 = "=/ProductImage/s12.jpg";
-const offerImgB1 = "=/ProductImage/b1.jpg";
-const offerImgB2 = "=/ProductImage/b2.jpg";
+const offerImgS3 = "/ProductImage/s3.jpg";
+const offerImgS1 = "/ProductImage/s1.jpg";
+const offerImgS2 = "/ProductImage/s2.jpg";
+const offerImgS4 = "/ProductImage/s4.jpg";
+const offerImgS5 = "/ProductImage/s5.jpg";
+const offerImgS6 = "/ProductImage/s6.jpg";
+const offerImgS7 = "/ProductImage/s7.jpg";
+const offerImgS8 = "/ProductImage/s8.jpg";
+const offerImgS9 = "/ProductImage/s9.jpg";
+const offerImgS10 = "/ProductImage/s10.jpg";
+const offerImgS11 = "/ProductImage/s11.jpg";
+const offerImgS12 = "/ProductImage/s12.jpg";
+const offerImgB1 = "/ProductImage/b1.jpg";
+const offerImgB2 = "/ProductImage/b2.jpg";
 
 
 ////////////////////////////////////////
 ///////////  FooterDetails  ////////////
 ///////////////////////////////////////
-const FooterLogoImg = "=/amazonlog.png"
+const FooterLogoImg = "/amazonlog.png"
 const { Battery4Bar } = "@mui/icons-material";
 
 
@@ -41,23 +41,23 @@ const { Battery4Bar } = "@mui/icons-material";
 ///////////////////////////////////////
 
 ///////// ShippingDetails
-const ShippingImg_1 = "=/ProductImage/shipping1.png";
-const ShippingImg_2 = "=/ProductImage/shipping2.png";
-const ShippingImg_3 = "=/ProductImage/shipping3.png";
-const ShippingImg_4 = "=/ProductImage/shipping4.png";
-const ShippingImg_5 = "=/ProductImage/shipping5.png";
-const ShippingImg_6 = "=/ProductImage/shipping6.png";
-const ShippingImg_7 = "=/ProductImage/shipping7.png";
-// const ShippingImg_8 = "=/ProductImage/shipping8.png";
-// const ShippingImg_9 = "=/ProductImage/shipping9.png";
-const ShippingImg_10 = "=/ProductImage/shipping10.png";
+const ShippingImg_1 = "/ProductImage/shipping1.png";
+const ShippingImg_2 = "/ProductImage/shipping2.png";
+const ShippingImg_3 = "/ProductImage/shipping3.png";
+const ShippingImg_4 = "/ProductImage/shipping4.png";
+const ShippingImg_5 = "/ProductImage/shipping5.png";
+const ShippingImg_6 = "/ProductImage/shipping6.png";
+const ShippingImg_7 = "/ProductImage/shipping7.png";
+// const ShippingImg_8 = "/ProductImage/shipping8.png";
+// const ShippingImg_9 = "/ProductImage/shipping9.png";
+const ShippingImg_10 = "/ProductImage/shipping10.png";
 
 //////////// ColorDetails
-const ProductIconImg_1 = "=/ProductImage/productIcon1.jpg";
-const ProductIconImg_2 = "=/ProductImage/productIcon2.jpg";
-const ProductIconImg_3 = "=/ProductImage/productIcon3.jpg";
-const ProductIconImg_4 = "=/ProductImage/productIcon4.jpg";
-const ProductIconImg_5 = "=/ProductImage/productIcon5.jpg";
+const ProductIconImg_1 = "/ProductImage/productIcon1.jpg";
+const ProductIconImg_2 = "/ProductImage/productIcon2.jpg";
+const ProductIconImg_3 = "/ProductImage/productIcon3.jpg";
+const ProductIconImg_4 = "/ProductImage/productIcon4.jpg";
+const ProductIconImg_5 = "/ProductImage/productIcon5.jpg";
 
 
 
