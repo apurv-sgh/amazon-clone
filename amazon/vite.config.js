@@ -25,7 +25,7 @@ export default defineConfig({
     // Development server configuration
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'https://amazon-clone-6vwn.onrender.com/',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '/api'),
       },
