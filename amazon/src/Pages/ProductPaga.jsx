@@ -10,9 +10,12 @@ import { TodaysDeals } from "../Data/SliderDetail";
 import { shippingDetail } from "../Data/data";
 import { Link, useParams } from "react-router-dom";
 import CartContext from "../ContextApi/CartContext";
+import { useNavigate } from "react-router-dom";
+
 
 const ProductPaga = () => {
-  const { addtoCart } = useContext(CartContext);
+  const navigate = useNavigate();
+  const { addtoCart, clearCart } = useContext(CartContext);
   const { id } = useParams();
   const [product, setProduct] = useState({});
   const [selectedColorImage, setSelectedColorImage] = useState(null);
@@ -23,6 +26,18 @@ const ProductPaga = () => {
     const found = items.find(item => item.id == id);
     if (found) setProduct(found);
   }, [id]);
+
+
+  const handleBuyNow = () => {
+  // clear previous cart (important)
+  clearCart();
+  
+  // add current product
+  addtoCart(product.id, product.name, product.price, product.status, product.image);
+
+  // navigate to checkout
+  navigate("/checkout");
+};
 
   return (
     <div className=" bg-white">
@@ -144,7 +159,11 @@ const ProductPaga = () => {
                   onClick={() => addtoCart(product.id, product.name, product.price, product.status, product.image)}
                 />
               </Link>
-              <CartButton name="Buy Now" color={"#FFA41C"} />
+              <CartButton
+                name="Buy Now"
+                color={"#FFA41C"}
+               onClick={handleBuyNow}
+              />
             </div>
           </div>
         </div>

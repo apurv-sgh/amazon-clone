@@ -1,9 +1,10 @@
-import { CartButton } from "./ProductPaga";
 import { useContext, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import CartContext from "../ContextApi/CartContext";
 
 const CartPage = () => {
   const { productList } = useContext(CartContext);
+  const navigate = useNavigate();
 
   function getTotalPrice() {
     return productList.reduce((total, product) => total + parseInt(product.price), 0);
@@ -12,6 +13,14 @@ const CartPage = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
+
+  const handleCheckout = () => {
+    if (productList.length === 0) {
+      alert("Your cart is empty!");
+      return;
+    }
+    navigate("/Checkout");
+  };
 
   return (
     <div className="max-w-375 mx-auto">
@@ -48,7 +57,17 @@ const CartPage = () => {
           <p className="text-lg leading-6 py-4">
             Subtotal ({productList.length} items): <b>$ {getTotalPrice()}</b>
           </p>
-          <CartButton name="Add to Cart" />
+          <button
+            onClick={handleCheckout}
+            disabled={productList.length === 0}
+            className={`w-full py-3 px-4 rounded-lg font-semibold text-white transition-colors ${
+              productList.length === 0
+                ? 'bg-gray-400 cursor-not-allowed'
+                : 'bg-[#FF9900] hover:bg-[#FF8C00]'
+            }`}
+          >
+            Proceed to Checkout
+          </button>
         </div>
       </div>
     </div>
