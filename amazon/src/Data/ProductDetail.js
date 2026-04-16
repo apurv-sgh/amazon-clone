@@ -221,7 +221,7 @@ import ProductIconImg_5 from "../assets/ProductImage/productIcon5.jpg";
 
 export const ProductDetail = [
   {
-    id: 101,
+    id: 1,
     name: "New Apple iPhone 10",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -292,7 +292,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 102,
+    id: 2,
     name: "New Apple iPhone 11",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -381,7 +381,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 103,
+    id: 3,
     name: "Apple iPhone 12",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -464,7 +464,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 104,
+    id: 4,
     name: "Apple iPhone 13 Mini",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -553,7 +553,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 105,
+    id: 5,
     name: "Apple iPhone 13",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -642,7 +642,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 106,
+    id: 6,
     name: "Apple iPhone 12 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -713,7 +713,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 107,
+    id: 7,
     name: "Apple iPhone 13 Pro",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -784,7 +784,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 108,
+    id: 8,
     name: "Apple iPhone 13 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -855,7 +855,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 109,
+    id: 9,
     name: "Apple iPhone 14 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -932,7 +932,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 10,
     name: "Apple iPhone 14",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1021,7 +1021,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 111,
+    id: 11,
     name: "Apple iPhone 15",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1104,7 +1104,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 112,
+    id: 12,
     name: "Apple iPhone 15 Pro",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1187,7 +1187,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 113,
+    id: 13,
     name: "Apple iPhone 15 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1270,7 +1270,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 114,
+    id: 14,
     name: "Apple iPhone 16",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1353,7 +1353,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 115,
+    id: 15,
     name: "Apple iPhone 16 Pro",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1436,7 +1436,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 116,
+    id: 16,
     name: "Apple iPhone 16 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1535,7 +1535,7 @@ import Vibez from "../assets/ProductImage/watchDeals/Vibezby-Lifelong-Smartwatch
 
 export const WatchDetail = [
   {
-    id: 201,
+    id: 37,
     name: "Fire-Boltt Phoenix Smart",
     rating: "34565",
     review: "1000",
@@ -1584,7 +1584,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 202,
+    id: 38,
     name: "beatXP Vega 1.43 AMOLED 466",
     rating: "34565",
     review: "1000",
@@ -1634,7 +1634,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 203,
+    id: 39,
     name: "Noise Pulse Go Buzz Smart",
     rating: "34565",
     review: "1000",
@@ -1684,7 +1684,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 204,
+    id: 40,
     name: "boAt Wave Call Smart Watch",
     rating: "34565",
     review: "1000",
@@ -1734,7 +1734,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 205,
+    id: 47,
     name: "beatXP Marv Super 1.99",
     rating: "34565",
     review: "1000",
@@ -1784,7 +1784,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 206,
+    id: 48,
     name: "Noise Pulse 2 Max Advanced",
     rating: "637357",
     review: "1000",
@@ -1834,7 +1834,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 207,
+    id: 49,
     name: "Vibez by Lifelong Ornate Smartwatch",
     rating: "637357",
     review: "1000",
@@ -1884,7 +1884,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 208,
+    id: 50,
     name: "Vibez by Lifelong Smartwatch",
     rating: "637357",
     review: "1000",
@@ -1953,7 +1953,7 @@ import LG_Gram from "../assets/ProductImage/laptopDeals/lg-gram-17.jpg";
 
 export const LaptopDetail = [
   {
-    id: 123456,
+    id: 41,
     name: "Dell XPS 15 Laptop",
     rating: "4.8",
     review: "350",
@@ -1971,7 +1971,7 @@ export const LaptopDetail = [
     ],
   },
   {
-    id: 234567,
+    id: 42,
     name: "Lenovo ThinkPad X1 Carbon",
     rating: "4.7",
     review: "270",
@@ -1990,7 +1990,7 @@ export const LaptopDetail = [
   },
 
   {
-    id: 345678,
+    id: 51,
     name: "Asus ZenBook Pro Duo UX582",
     rating: "4.5",
     review: "120",
@@ -2009,7 +2009,7 @@ export const LaptopDetail = [
   },
 
   {
-    id: 456789,
+    id: 52,
     name: "HP Spectre x360",
     rating: "4.6",
     review: "450",
@@ -2028,7 +2028,7 @@ export const LaptopDetail = [
   },
 
   {
-    id: 567890,
+    id: 53,
     name: "Apple MacBook Pro",
     rating: "4.9",
     review: "650",
@@ -2046,7 +2046,7 @@ export const LaptopDetail = [
     ],
   },
   {
-    id: 789012,
+    id: 54,
     name: "MSI GE76 Raider",
     rating: "4.3",
     review: "190",
@@ -2065,7 +2065,7 @@ export const LaptopDetail = [
   },
 
   {
-    id: 890123,
+    id: 55,
     name: "Razer Blade 15",
     rating: "4.8",
     review: "420",
@@ -2084,7 +2084,7 @@ export const LaptopDetail = [
   },
 
   {
-    id: 901234,
+    id: 56,
     name: "Dell G5 15",
     rating: "4.2",
     review: "150",
@@ -2103,7 +2103,7 @@ export const LaptopDetail = [
   },
 
   {
-    id: 1234567,
+    id: 57,
     name: "LG Gram 17",
     rating: "4.5",
     review: "90",
@@ -2138,7 +2138,7 @@ import JBL_Live from "../assets/ProductImage/headphonesDeals/jbl-live-650btnc.jp
 
 export const headphonesDetail = [
   {
-    id: 123456789,
+    id: 44,
     name: "Sony WH-1000XM4",
     rating: "4.7",
     review: "2800",
@@ -2157,7 +2157,7 @@ export const headphonesDetail = [
   },
 
   {
-    id: 741852963,
+    id: 45,
     name: "Bose QuietComfort 35 II",
     rating: "4.6",
     review: "2400",
@@ -2213,7 +2213,7 @@ export const headphonesDetail = [
     ],
   },
   {
-    id: 987456987,
+    id: 46,
     name: "Apple AirPods Pro",
     rating: "4.8",
     review: "3200",

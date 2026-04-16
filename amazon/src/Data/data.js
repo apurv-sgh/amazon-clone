@@ -78,7 +78,7 @@ export const assetsImg = {
 export const NavBarItem = [
     {
         id: 1,
-        MenuItem: 'Amazon miniTV'
+        MenuItem: 'MX Player'
     },
     {
         id: 2,
@@ -86,7 +86,7 @@ export const NavBarItem = [
     },
     {
         id: 3,
-        MenuItem: 'Best Sellers'
+        MenuItem: 'Bestsellers'
     },
     {
         id: 4,
@@ -94,7 +94,7 @@ export const NavBarItem = [
     },
     {
         id: 5,
-        MenuItem: 'Today Deals'
+        MenuItem: `Today's Deals`
     },
     {
         id: 6,
@@ -102,7 +102,7 @@ export const NavBarItem = [
     },
     {
         id: 7,
-        MenuItem: ' Electronics'
+        MenuItem: 'New Releases'
     },
     {
         id: 8,
@@ -110,25 +110,25 @@ export const NavBarItem = [
     },
     {
         id: 9,
-        MenuItem: 'New Releases'
+        MenuItem: 'Fashion'
     },
     {
         id: 10,
-        MenuItem: 'Home & Kitchen'
+        MenuItem: ' Electronics'
     },
     {
         id: 11,
         MenuItem: 'Amazon Pay'
     },
-    {
-        id: 12,
-        MenuItem: 'Fashion'
-    },
-    {
-        id: 13,
-        MenuItem: 'Computers'
-    },
     // {
+    //     id: 12,
+    //     MenuItem: 'Home & Kitchen'
+    // },
+    // {
+    //     id: 13,
+    //     MenuItem: 'Computers'
+    // },
+    // { 
     //     id: 14,
     //     MenuItem: 'Beauty & Personal Care'
     // },
@@ -255,7 +255,7 @@ export const AmazonPay = [
 
 export const Upcominglaunches = [
     {
-        id: 1,
+        id: 18,
         offer: 'OnePlus Nord CE 3 Lite 5G | ₹19,999',
         offerImage: offerImgS5,
     },
@@ -265,7 +265,7 @@ export const Upcominglaunches = [
         offerImage: offerImgS6,
     },
     {
-        id: 3,
+        id: 19,
         offer: 'Realme narzo N55 | ₹10,999',
         offerImage: offerImgS7,
     },
@@ -273,6 +273,52 @@ export const Upcominglaunches = [
         id: 4,
         offer: 'Explore all new launches',
         offerImage: offerImgS8,
+    },
+]
+
+export const ShoppingDeals= [
+    {
+        id: 1,
+        offer: '',
+        offerImage:"https://m.media-amazon.com/images/I/81Zno+84QeL._AC_SY145_.jpg",
+    },
+    {
+        id: 2,
+        offer: '',
+        offerImage: "https://m.media-amazon.com/images/I/61zqWhorBfL._AC_SY145_.jpg",
+    },
+    {
+        id: 3,
+        offer: '',
+        offerImage: "https://m.media-amazon.com/images/I/61162hu-aKL._AC_SY145_.jpg",
+    },
+    {
+        id: 4,
+        offer: '',
+        offerImage: "https://m.media-amazon.com/images/I/51ADWo4ZOZL._AC_SY145_.jpg",
+    },
+]
+
+export const HomeStyle= [
+    {
+        id: 1,
+        offer: 'Cushion covers, bedsheets & more',
+        offerImage:"https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_furnishings_2._SY116_CB555624324_.jpg",
+    },
+    {
+        id: 2,
+        offer: 'Figurines, vases & more',
+        offerImage: "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg",
+    },
+    {
+        id: 3,
+        offer: 'Home storage',
+        offerImage: "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_storage_1._SY116_CB555624324_.jpg",
+    },
+    {
+        id: 4,
+        offer: 'Lighting Solutions',
+        offerImage: "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_lighting_2._SY116_CB555624324_.jpg",
     },
 ]
 
@@ -413,35 +459,35 @@ export const ColorDetail = [
     [
         {
             id: 1,
-            productId: 101,
+            productId:1,
             price: '1,899.00',
             image: ProductIconImg_1,
             color: 'red1'
         },
         {
             id: 2,
-            productId: 101,
+            productId: 1,
             price: '1,899.00',
             image: ProductIconImg_2,
             color: 'red2'
         },
         {
             id: 3,
-            productId: 101,
+            productId: 1,
             price: '1,899.00',
             image: ProductIconImg_3,
             color: 'red3'
         },
         {
             id: 4,
-            productId: 101,
+            productId: 1,
             price: '1,899.00',
             image: ProductIconImg_4,
             color: 'red4'
         },
         {
             id: 5,
-            productId: 101,
+            productId: 1,
             price: '1,899.00',
             image: ProductIconImg_5,
             color: 'red5'
@@ -462,12 +508,12 @@ export const ColorDetail = [
 ///////////////////////////////////////
 export const TodaysDeals = [
     {
-        id: 1,
+        id: 17,
         productImage: 'p1',
         productName: 'Samsung Galaxy M14 5G'
     },
     {
-        id: 2,
+        id: 20,
         productImage: 'p2',
         productName: 'boAt New ANC Headphone Launch - R…'
     },
@@ -477,12 +523,12 @@ export const TodaysDeals = [
         productName: 'Blockbuster Deals on Speakers, Sound…'
     },
     {
-        id: 4,
+        id: 24,
         productImage: 'p4',
         productName: 'Compact Powerbank at 999 - Limited…'
     },
     {
-        id: 5,
+        id: 21,
         productImage: 'p5',
         productName: 'Apple Airpods starting Rs. 11999'
     },
@@ -492,22 +538,22 @@ export const TodaysDeals = [
         productName: 'Deal of the Day on Nobel Hygiene'
     },
     {
-        id: 7,
+        id: 22,
         productImage: 'p7',
         productName: 'Never before prices on Mivi Headsets'
     },
     {
-        id: 8,
+        id: 23,
         productImage: 'p8',
         productName: 'Crazy Offers on Noise Headphones'
     },
     {
-        id: 9,
+        id: 25,
         productImage: 'p9',
         productName: 'Best Deals on Trolley and Backpack fr…'
     },
     {
-        id: 10,
+        id: 26,
         productImage: 'p10',
         productName: 'Dry Fruits and Seeds'
     },
