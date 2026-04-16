@@ -1,221 +1,221 @@
 //////// Iphone - 10
-import Iphone10 from "../assets/ProductImage/iphoneImg/iphone10/iphone10.jpg";
-import Iphone10_black from "../assets/ProductImage/iphoneImg/iphone10/iphone10-black.jpg";
-import Iphone10_white from "../assets/ProductImage/iphoneImg/iphone10/iphone10-white.jpg";
-import Iphone10_gold from "../assets/ProductImage/iphoneImg/iphone10/iphone10-gold.jpg";
+import Iphone10 from "/ProductImage/iphoneImg/iphone10/iphone10.jpg";
+import Iphone10_black from "/ProductImage/iphoneImg/iphone10/iphone10-black.jpg";
+import Iphone10_white from "/ProductImage/iphoneImg/iphone10/iphone10-white.jpg";
+import Iphone10_gold from "/ProductImage/iphoneImg/iphone10/iphone10-gold.jpg";
 
-import Iphone10_small01 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img01.jpg";
-import Iphone10_small02 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img02.jpg";
-import Iphone10_small03 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img03.jpg";
-import Iphone10_small04 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img04.jpg";
-import Iphone10_small05 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img05.jpg";
-import Iphone10_small06 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img06.jpg";
-import Iphone10_small07 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img07.jpg";
+import Iphone10_small01 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img01.jpg";
+import Iphone10_small02 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img02.jpg";
+import Iphone10_small03 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img03.jpg";
+import Iphone10_small04 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img04.jpg";
+import Iphone10_small05 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img05.jpg";
+import Iphone10_small06 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img06.jpg";
+import Iphone10_small07 from "/ProductImage/iphoneImg/iphone10/iphone10-small-img07.jpg";
 
 //////// Iphone - 11
-import Iphone11 from "../assets/ProductImage/iphoneImg/iphone11/iphone11.jpg";
-import Iphone11_black from "../assets/ProductImage/iphoneImg/iphone11/iphone11-black.jpg";
-import Iphone11_white from "../assets/ProductImage/iphoneImg/iphone11/iphone11-white.jpg";
-import Iphone11_red from "../assets/ProductImage/iphoneImg/iphone11/iphone11-red.jpg";
-import Iphone11_purple from "../assets/ProductImage/iphoneImg/iphone11/iphone11-purple.jpg";
-import Iphone11_yellow from "../assets/ProductImage/iphoneImg/iphone11/iphone11-yellow.jpg";
-import Iphone11_green from "../assets/ProductImage/iphoneImg/iphone11/iphone11-green.jpg";
+import Iphone11 from "/ProductImage/iphoneImg/iphone11/iphone11.jpg";
+import Iphone11_black from "/ProductImage/iphoneImg/iphone11/iphone11-black.jpg";
+import Iphone11_white from "/ProductImage/iphoneImg/iphone11/iphone11-white.jpg";
+import Iphone11_red from "/ProductImage/iphoneImg/iphone11/iphone11-red.jpg";
+import Iphone11_purple from "/ProductImage/iphoneImg/iphone11/iphone11-purple.jpg";
+import Iphone11_yellow from "/ProductImage/iphoneImg/iphone11/iphone11-yellow.jpg";
+import Iphone11_green from "/ProductImage/iphoneImg/iphone11/iphone11-green.jpg";
 
-import Iphone11_small01 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img01.jpg";
-import Iphone11_small02 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img02.jpg";
-import Iphone11_small03 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img03.jpg";
-import Iphone11_small04 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img04.jpg";
-import Iphone11_small05 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img05.jpg";
-import Iphone11_small06 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img06.jpg";
-import Iphone11_small07 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img07.jpg";
+import Iphone11_small01 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img01.jpg";
+import Iphone11_small02 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img02.jpg";
+import Iphone11_small03 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img03.jpg";
+import Iphone11_small04 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img04.jpg";
+import Iphone11_small05 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img05.jpg";
+import Iphone11_small06 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img06.jpg";
+import Iphone11_small07 from "/ProductImage/iphoneImg/iphone11/iphone11-small-img07.jpg";
 
 
 ////////// Iphone - 12
-import Iphone12 from "../assets/ProductImage/iphoneImg/iphone12/iphone12.jpg";
-import Iphone12_white from "../assets/ProductImage/iphoneImg/iphone12/iphone12-white.jpg";
-import Iphone12_black from "../assets/ProductImage/iphoneImg/iphone12/iphone12-black.jpg";
-import Iphone12_red from "../assets/ProductImage/iphoneImg/iphone12/iphone12-red.jpg";
-import Iphone12_purple from "../assets/ProductImage/iphoneImg/iphone12/iphone12-purple.jpg";
+import Iphone12 from "/ProductImage/iphoneImg/iphone12/iphone12.jpg";
+import Iphone12_white from "/ProductImage/iphoneImg/iphone12/iphone12-white.jpg";
+import Iphone12_black from "/ProductImage/iphoneImg/iphone12/iphone12-black.jpg";
+import Iphone12_red from "/ProductImage/iphoneImg/iphone12/iphone12-red.jpg";
+import Iphone12_purple from "/ProductImage/iphoneImg/iphone12/iphone12-purple.jpg";
 
-import Iphone12_01 from "../assets/ProductImage/iphoneImg/iphone12/iphone12.jpg";
-import Iphone12_02 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-02.jpg";
-import Iphone12_03 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-03.jpg";
-import Iphone12_04 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-04.jpg";
-import Iphone12_05 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-05.jpg";
-import Iphone12_06 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-06.jpg";
-import Iphone12_07 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-07.jpg";
+import Iphone12_01 from "/ProductImage/iphoneImg/iphone12/iphone12.jpg";
+import Iphone12_02 from "/ProductImage/iphoneImg/iphone12/iphone12-02.jpg";
+import Iphone12_03 from "/ProductImage/iphoneImg/iphone12/iphone12-03.jpg";
+import Iphone12_04 from "/ProductImage/iphoneImg/iphone12/iphone12-04.jpg";
+import Iphone12_05 from "/ProductImage/iphoneImg/iphone12/iphone12-05.jpg";
+import Iphone12_06 from "/ProductImage/iphoneImg/iphone12/iphone12-06.jpg";
+import Iphone12_07 from "/ProductImage/iphoneImg/iphone12/iphone12-07.jpg";
 
 ////////// Iphone - 12pro-max
-import Iphone12pro_Max from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max.jpg";
-import Iphone12pro_Max_blue from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-blue.jpg";
-import Iphone12pro_Max_gold from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-gold.jpg";
-import Iphone12pro_Max_graphite from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-graphite.jpg";
+import Iphone12pro_Max from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max.jpg";
+import Iphone12pro_Max_blue from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-blue.jpg";
+import Iphone12pro_Max_gold from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-gold.jpg";
+import Iphone12pro_Max_graphite from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-graphite.jpg";
 
 
-import Iphone12pro_Max_01 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max.jpg";
-import Iphone12pro_Max_02 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-02.jpg";
-import Iphone12pro_Max_03 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-03.jpg";
-import Iphone12pro_Max_04 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-04.jpg";
-import Iphone12pro_Max_05 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-05.jpg";
-import Iphone12pro_Max_06 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-06.jpg";
-import Iphone12pro_Max_07 from "../assets/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-07.jpg";
+import Iphone12pro_Max_01 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max.jpg";
+import Iphone12pro_Max_02 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-02.jpg";
+import Iphone12pro_Max_03 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-03.jpg";
+import Iphone12pro_Max_04 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-04.jpg";
+import Iphone12pro_Max_05 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-05.jpg";
+import Iphone12pro_Max_06 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-06.jpg";
+import Iphone12pro_Max_07 from "/ProductImage/iphoneImg/iphone12pro-max/iphone12pro-max-07.jpg";
 
 
 ////////// Iphone - 13
-import Iphone13 from "../assets/ProductImage/iphoneImg/iphone13/iphone13.jpg";
-import Iphone13_blue from "../assets/ProductImage/iphoneImg/iphone13/iphone13-blue.jpg";
-import Iphone13_white from "../assets/ProductImage/iphoneImg/iphone13/iphone13-white.jpg";
-import Iphone13_green from "../assets/ProductImage/iphoneImg/iphone13/iphone13-green.jpg";
-import Iphone13_black from "../assets/ProductImage/iphoneImg/iphone13/iphone13-black.jpg";
-import Iphone13_red from "../assets/ProductImage/iphoneImg/iphone13/iphone13-red.jpg";
-import Iphone13_purple from "../assets/ProductImage/iphoneImg/iphone13/iphone13-purple.jpg";
+import Iphone13 from "/ProductImage/iphoneImg/iphone13/iphone13.jpg";
+import Iphone13_blue from "/ProductImage/iphoneImg/iphone13/iphone13-blue.jpg";
+import Iphone13_white from "/ProductImage/iphoneImg/iphone13/iphone13-white.jpg";
+import Iphone13_green from "/ProductImage/iphoneImg/iphone13/iphone13-green.jpg";
+import Iphone13_black from "/ProductImage/iphoneImg/iphone13/iphone13-black.jpg";
+import Iphone13_red from "/ProductImage/iphoneImg/iphone13/iphone13-red.jpg";
+import Iphone13_purple from "/ProductImage/iphoneImg/iphone13/iphone13-purple.jpg";
 
-import Iphone13_01 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-01.jpg";
-import Iphone13_02 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-02.jpg";
-import Iphone13_03 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-03.jpg";
-import Iphone13_04 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-04.jpg";
-import Iphone13_05 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-05.jpg";
-import Iphone13_06 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-06.jpg";
-import Iphone13_07 from "../assets/ProductImage/iphoneImg/iphone13/iphone13-07.jpg";
+import Iphone13_01 from "/ProductImage/iphoneImg/iphone13/iphone13-01.jpg";
+import Iphone13_02 from "/ProductImage/iphoneImg/iphone13/iphone13-02.jpg";
+import Iphone13_03 from "/ProductImage/iphoneImg/iphone13/iphone13-03.jpg";
+import Iphone13_04 from "/ProductImage/iphoneImg/iphone13/iphone13-04.jpg";
+import Iphone13_05 from "/ProductImage/iphoneImg/iphone13/iphone13-05.jpg";
+import Iphone13_06 from "/ProductImage/iphoneImg/iphone13/iphone13-06.jpg";
+import Iphone13_07 from "/ProductImage/iphoneImg/iphone13/iphone13-07.jpg";
 
 ///////// Iphone - 13 Mini
-import Iphone13Mini from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini.jpg";
-import Iphone13mini_blue from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-blue.jpg";
-import Iphone13mini_white from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-white.jpg";
-import Iphone13mini_graphite from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-graphite.jpg";
-import Iphone13mini_black from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-black.jpg";
-import Iphone13mini_red from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-red.jpg";
-import Iphone13mini_purple from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-purple.jpg";
+import Iphone13Mini from "/ProductImage/iphoneImg/iphone13mini/iphone13mini.jpg";
+import Iphone13mini_blue from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-blue.jpg";
+import Iphone13mini_white from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-white.jpg";
+import Iphone13mini_graphite from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-graphite.jpg";
+import Iphone13mini_black from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-black.jpg";
+import Iphone13mini_red from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-red.jpg";
+import Iphone13mini_purple from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-purple.jpg";
 
-import Iphone13mini_01 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-01.jpg";
-import Iphone13mini_02 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-02.jpg";
-import Iphone13mini_03 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-03.jpg";
-import Iphone13mini_04 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-04.jpg";
-import Iphone13mini_05 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-05.jpg";
-import Iphone13mini_06 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-06.jpg";
-import Iphone13mini_07 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-07.jpg";
+import Iphone13mini_01 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-01.jpg";
+import Iphone13mini_02 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-02.jpg";
+import Iphone13mini_03 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-03.jpg";
+import Iphone13mini_04 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-04.jpg";
+import Iphone13mini_05 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-05.jpg";
+import Iphone13mini_06 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-06.jpg";
+import Iphone13mini_07 from "/ProductImage/iphoneImg/iphone13mini/iphone13mini-07.jpg";
 
 
 
 ////////// Iphone - 13 Pro
-import Iphone13Pro from "../assets/ProductImage/iphoneImg/iphone13pro/iphone13pro.jpg";
+import Iphone13Pro from "/ProductImage/iphoneImg/iphone13pro/iphone13pro.jpg";
 
 ///////// Iphone - 13 Pro Max
-import Iphone13ProMax from "../assets/ProductImage/iphoneImg/iphone13pro-max/iphone13pro-max.jpg";
+import Iphone13ProMax from "/ProductImage/iphoneImg/iphone13pro-max/iphone13pro-max.jpg";
 
 
 ////////// Iphone - 14
-import Iphone14 from "../assets/ProductImage/iphoneImg/iphone14/iphone14.jpg";
-import Iphone14_blue from "../assets/ProductImage/iphoneImg/iphone14/iphone14-blue.jpg";
-import Iphone14_white from "../assets/ProductImage/iphoneImg/iphone14/iphone14-white.jpg";
-import Iphone14_green from "../assets/ProductImage/iphoneImg/iphone14/iphone14-green.jpg";
-import Iphone14_black from "../assets/ProductImage/iphoneImg/iphone14/iphone14-black.jpg";
-import Iphone14_red from "../assets/ProductImage/iphoneImg/iphone14/iphone14-red.jpg";
-import Iphone14_purple from "../assets/ProductImage/iphoneImg/iphone14/iphone14-purple.jpg";
+import Iphone14 from "/ProductImage/iphoneImg/iphone14/iphone14.jpg";
+import Iphone14_blue from "/ProductImage/iphoneImg/iphone14/iphone14-blue.jpg";
+import Iphone14_white from "/ProductImage/iphoneImg/iphone14/iphone14-white.jpg";
+import Iphone14_green from "/ProductImage/iphoneImg/iphone14/iphone14-green.jpg";
+import Iphone14_black from "/ProductImage/iphoneImg/iphone14/iphone14-black.jpg";
+import Iphone14_red from "/ProductImage/iphoneImg/iphone14/iphone14-red.jpg";
+import Iphone14_purple from "/ProductImage/iphoneImg/iphone14/iphone14-purple.jpg";
 
-import Iphone14_01 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-01.jpg";
-import Iphone14_02 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-02.jpg";
-import Iphone14_03 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-03.jpg";
-import Iphone14_04 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-04.jpg";
-import Iphone14_05 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-05.jpg";
-import Iphone14_06 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-06.jpg";
-import Iphone14_07 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-07.jpg";
+import Iphone14_01 from "/ProductImage/iphoneImg/iphone14/iphone14-01.jpg";
+import Iphone14_02 from "/ProductImage/iphoneImg/iphone14/iphone14-02.jpg";
+import Iphone14_03 from "/ProductImage/iphoneImg/iphone14/iphone14-03.jpg";
+import Iphone14_04 from "/ProductImage/iphoneImg/iphone14/iphone14-04.jpg";
+import Iphone14_05 from "/ProductImage/iphoneImg/iphone14/iphone14-05.jpg";
+import Iphone14_06 from "/ProductImage/iphoneImg/iphone14/iphone14-06.jpg";
+import Iphone14_07 from "/ProductImage/iphoneImg/iphone14/iphone14-07.jpg";
 
 ////////// Iphone - 14pro-Max
-import Iphone14pro_max from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max.jpg";
-import Iphone14pro_max_black from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-black.jpg";
-import Iphone14pro_max_gold from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-gold.jpg";
-import Iphone14pro_max_purple from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-purple.jpg";
-import Iphone14pro_max_white from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-white.jpg";
+import Iphone14pro_max from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max.jpg";
+import Iphone14pro_max_black from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-black.jpg";
+import Iphone14pro_max_gold from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-gold.jpg";
+import Iphone14pro_max_purple from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-purple.jpg";
+import Iphone14pro_max_white from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-white.jpg";
 
-import Iphone14pro_max_01 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-01.jpg";
-import Iphone14pro_max_02 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-02.jpg";
-import Iphone14pro_max_03 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-03.jpg";
-import Iphone14pro_max_04 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-04.jpg";
-import Iphone14pro_max_05 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-05.jpg";
-import Iphone14pro_max_06 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-06.jpg";
-import Iphone14pro_max_07 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-07.jpg";
+import Iphone14pro_max_01 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-01.jpg";
+import Iphone14pro_max_02 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-02.jpg";
+import Iphone14pro_max_03 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-03.jpg";
+import Iphone14pro_max_04 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-04.jpg";
+import Iphone14pro_max_05 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-05.jpg";
+import Iphone14pro_max_06 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-06.jpg";
+import Iphone14pro_max_07 from "/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-07.jpg";
 
 ////////// Iphone - 15
-import Iphone15 from "../assets/ProductImage/iphoneImg/iphone15/iphone15.jpg";
-import Iphone15_blue from "../assets/ProductImage/iphoneImg/iphone15/iphone15-blue.jpg";
-import Iphone15_yellow from "../assets/ProductImage/iphoneImg/iphone15/iphone15-yellow.jpg";
-import Iphone15_green from "../assets/ProductImage/iphoneImg/iphone15/iphone15-green.jpg";
-import Iphone15_black from "../assets/ProductImage/iphoneImg/iphone15/iphone15-black.jpg";
-import Iphone15_pink from "../assets/ProductImage/iphoneImg/iphone15/iphone15-pink.jpg";
+import Iphone15 from "/ProductImage/iphoneImg/iphone15/iphone15.jpg";
+import Iphone15_blue from "/ProductImage/iphoneImg/iphone15/iphone15-blue.jpg";
+import Iphone15_yellow from "/ProductImage/iphoneImg/iphone15/iphone15-yellow.jpg";
+import Iphone15_green from "/ProductImage/iphoneImg/iphone15/iphone15-green.jpg";
+import Iphone15_black from "/ProductImage/iphoneImg/iphone15/iphone15-black.jpg";
+import Iphone15_pink from "/ProductImage/iphoneImg/iphone15/iphone15-pink.jpg";
 
-import Iphone15_01 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-01.jpg";
-import Iphone15_02 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-02.jpg";
-import Iphone15_03 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-03.jpg";
-import Iphone15_04 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-04.jpg";
-import Iphone15_05 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-05.jpg";
-import Iphone15_06 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-06.jpg";
-import Iphone15_07 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-07.jpg";
+import Iphone15_01 from "/ProductImage/iphoneImg/iphone15/iphone15-01.jpg";
+import Iphone15_02 from "/ProductImage/iphoneImg/iphone15/iphone15-02.jpg";
+import Iphone15_03 from "/ProductImage/iphoneImg/iphone15/iphone15-03.jpg";
+import Iphone15_04 from "/ProductImage/iphoneImg/iphone15/iphone15-04.jpg";
+import Iphone15_05 from "/ProductImage/iphoneImg/iphone15/iphone15-05.jpg";
+import Iphone15_06 from "/ProductImage/iphoneImg/iphone15/iphone15-06.jpg";
+import Iphone15_07 from "/ProductImage/iphoneImg/iphone15/iphone15-07.jpg";
 
 ////////// Iphone - 15pro
-import Iphone15pro from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro.jpg";
+import Iphone15pro from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro.jpg";
 
 ////////// Iphone - 15pro-Max
-import Iphone15pro_max from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max.jpg";
-import Iphone15pro_max_black from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-black.jpg";
-import Iphone15pro_max_white from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-white.jpg";
-import Iphone15pro_max_natural from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-natural.jpg";
-import Iphone15pro_max_blue from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-blue.jpg";
-import Iphone15pro_max_red from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-01.jpg";
+import Iphone15pro_max from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max.jpg";
+import Iphone15pro_max_black from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-black.jpg";
+import Iphone15pro_max_white from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-white.jpg";
+import Iphone15pro_max_natural from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-natural.jpg";
+import Iphone15pro_max_blue from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-blue.jpg";
+import Iphone15pro_max_red from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-01.jpg";
 
-import Iphone15pro_max_01 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-01.jpg";
-import Iphone15pro_max_02 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-02.jpg";
-import Iphone15pro_max_03 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-03.jpg";
-import Iphone15pro_max_04 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-04.jpg";
-import Iphone15pro_max_05 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-05.jpg";
-import Iphone15pro_max_06 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-06.jpg";
-import Iphone15pro_max_07 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-07.jpg";
+import Iphone15pro_max_01 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-01.jpg";
+import Iphone15pro_max_02 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-02.jpg";
+import Iphone15pro_max_03 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-03.jpg";
+import Iphone15pro_max_04 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-04.jpg";
+import Iphone15pro_max_05 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-05.jpg";
+import Iphone15pro_max_06 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-06.jpg";
+import Iphone15pro_max_07 from "/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-07.jpg";
 
 ////////// Iphone - 16
-import Iphone16 from "../assets/ProductImage/iphoneImg/iphone16/iphone16.jpg";
-import Iphone16_blue from "../assets/ProductImage/iphoneImg/iphone16/iphone16-blue.jpg";
-import Iphone16_white from "../assets/ProductImage/iphoneImg/iphone16/iphone16-white.jpg";
-import Iphone16_green from "../assets/ProductImage/iphoneImg/iphone16/iphone16-green.jpg";
-import Iphone16_black from "../assets/ProductImage/iphoneImg/iphone16/iphone16-black.jpg";
-import Iphone16_pink from "../assets/ProductImage/iphoneImg/iphone16/iphone16-pink.jpg";
+import Iphone16 from "/ProductImage/iphoneImg/iphone16/iphone16.jpg";
+import Iphone16_blue from "/ProductImage/iphoneImg/iphone16/iphone16-blue.jpg";
+import Iphone16_white from "/ProductImage/iphoneImg/iphone16/iphone16-white.jpg";
+import Iphone16_green from "/ProductImage/iphoneImg/iphone16/iphone16-green.jpg";
+import Iphone16_black from "/ProductImage/iphoneImg/iphone16/iphone16-black.jpg";
+import Iphone16_pink from "/ProductImage/iphoneImg/iphone16/iphone16-pink.jpg";
 
-import Iphone16_01 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-01.jpg";
-import Iphone16_02 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-02.jpg";
-import Iphone16_03 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-03.jpg";
-import Iphone16_04 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-04.jpg";
-import Iphone16_05 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-05.jpg";
-import Iphone16_06 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-06.jpg";
-import Iphone16_07 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-07.jpg";
+import Iphone16_01 from "/ProductImage/iphoneImg/iphone16/iphone16-01.jpg";
+import Iphone16_02 from "/ProductImage/iphoneImg/iphone16/iphone16-02.jpg";
+import Iphone16_03 from "/ProductImage/iphoneImg/iphone16/iphone16-03.jpg";
+import Iphone16_04 from "/ProductImage/iphoneImg/iphone16/iphone16-04.jpg";
+import Iphone16_05 from "/ProductImage/iphoneImg/iphone16/iphone16-05.jpg";
+import Iphone16_06 from "/ProductImage/iphoneImg/iphone16/iphone16-06.jpg";
+import Iphone16_07 from "/ProductImage/iphoneImg/iphone16/iphone16-07.jpg";
 ////////// Iphone - 16pro
-import Iphone16pro from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-blue.jpg";
+import Iphone16pro from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-blue.jpg";
 ////////// Iphone - 16pro-Max
-import Iphone16pro_max from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max.jpg";
-import Iphone16pro_max_blue from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-blue.jpg";
-import Iphone16pro_max_white from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-white.jpg";
-import Iphone16pro_max_gold from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-gold.jpg";
-import Iphone16pro_max_black from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-black.jpg";
-import Iphone16pro_max_natural from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-natural.jpg";
+import Iphone16pro_max from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max.jpg";
+import Iphone16pro_max_blue from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-blue.jpg";
+import Iphone16pro_max_white from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-white.jpg";
+import Iphone16pro_max_gold from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-gold.jpg";
+import Iphone16pro_max_black from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-black.jpg";
+import Iphone16pro_max_natural from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-natural.jpg";
 
-import Iphone16pro_max_01 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-01.jpg";
-import Iphone16pro_max_02 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-02.jpg";
-import Iphone16pro_max_03 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-03.jpg";
-import Iphone16pro_max_04 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-04.jpg";
-import Iphone16pro_max_05 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-05.jpg";
-import Iphone16pro_max_06 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-06.jpg";
-import Iphone16pro_max_07 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-07.jpg";
+import Iphone16pro_max_01 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-01.jpg";
+import Iphone16pro_max_02 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-02.jpg";
+import Iphone16pro_max_03 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-03.jpg";
+import Iphone16pro_max_04 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-04.jpg";
+import Iphone16pro_max_05 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-05.jpg";
+import Iphone16pro_max_06 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-06.jpg";
+import Iphone16pro_max_07 from "/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-07.jpg";
 
 
 
-import ProductIconImg_1 from "../assets/ProductImage/productIcon1.jpg";
-import ProductIconImg_2 from "../assets/ProductImage/productIcon2.jpg";
-import ProductIconImg_3 from "../assets/ProductImage/productIcon3.jpg";
-import ProductIconImg_4 from "../assets/ProductImage/productIcon4.jpg";
-import ProductIconImg_5 from "../assets/ProductImage/productIcon5.jpg";
-// import Iphone_13pro from "../assets/ProductImage/iPhone-13Pro-Graphite.jpg";
-// import Iphone_10 from "../assets/ProductImage/New-Apple-iPhone-10.jpg";
-// import Iphone_12_blue from "../assets/ProductImage/iphone12-Blue.jpg";
-// import Iphone_12_White from "../assets/ProductImage/iphone12-White.jpg";
-// import Apple_13pro from "../assets/ProductImage/Apple-iPhone-13Pro-Graphite.jpg";
+import ProductIconImg_1 from "/ProductImage/productIcon1.jpg";
+import ProductIconImg_2 from "/ProductImage/productIcon2.jpg";
+import ProductIconImg_3 from "/ProductImage/productIcon3.jpg";
+import ProductIconImg_4 from "/ProductImage/productIcon4.jpg";
+import ProductIconImg_5 from "/ProductImage/productIcon5.jpg";
+// import Iphone_13pro from "/ProductImage/iPhone-13Pro-Graphite.jpg";
+// import Iphone_10 from "/ProductImage/New-Apple-iPhone-10.jpg";
+// import Iphone_12_blue from "/ProductImage/iphone12-Blue.jpg";
+// import Iphone_12_White from "/ProductImage/iphone12-White.jpg";
+// import Apple_13pro from "/ProductImage/Apple-iPhone-13Pro-Graphite.jpg";
 
 
 
@@ -1522,14 +1522,14 @@ export const ProductDetail = [
 
 
 ////////////// Watchs Deals ///////////////////////////
-import Fire_Bolt from "../assets/ProductImage/watchDeals/Fire-Boltt-Phoenix-Smart.jpg";
-import BeatXP from "../assets/ProductImage/watchDeals/beatXP-Vega.jpg";
-import Noise_Pulse from "../assets/ProductImage/watchDeals/Noise-PulseGo-Buzz-Smart.jpg";
-import Boat_Wave from "../assets/ProductImage/watchDeals/boAt-Wave-Call-Smart-Watch.jpg";
-import BeatXP_Marv from "../assets/ProductImage/watchDeals/beatXP-Marv-Super.jpg";
-import Noise_Pulse_2 from "../assets/ProductImage/watchDeals/Noise-Pulse2-Max-Advanced.jpg";
-import Vibez_Ornate from "../assets/ProductImage/watchDeals/Vibezby-Lifelong-Ornate-Smartwatch.jpg";
-import Vibez from "../assets/ProductImage/watchDeals/Vibezby-Lifelong-Smartwatch.jpg";
+import Fire_Bolt from "/ProductImage/watchDeals/Fire-Boltt-Phoenix-Smart.jpg";
+import BeatXP from "/ProductImage/watchDeals/beatXP-Vega.jpg";
+import Noise_Pulse from "/ProductImage/watchDeals/Noise-PulseGo-Buzz-Smart.jpg";
+import Boat_Wave from "/ProductImage/watchDeals/boAt-Wave-Call-Smart-Watch.jpg";
+import BeatXP_Marv from "/ProductImage/watchDeals/beatXP-Marv-Super.jpg";
+import Noise_Pulse_2 from "/ProductImage/watchDeals/Noise-Pulse2-Max-Advanced.jpg";
+import Vibez_Ornate from "/ProductImage/watchDeals/Vibezby-Lifelong-Ornate-Smartwatch.jpg";
+import Vibez from "/ProductImage/watchDeals/Vibezby-Lifelong-Smartwatch.jpg";
 
 
 
@@ -1940,15 +1940,15 @@ export const WatchDetail = [
 
 
 ////////////// Laptops Deals ///////////////////////////
-import Dell_XPS_15 from "../assets/ProductImage/laptopDeals/dell-xps-15.jpg";
-import Lenovo_Thinkpad from "../assets/ProductImage/laptopDeals/lenovo-thinkpad-x1-carbon.jpg";
-import Asus_Zenbook from "../assets/ProductImage/laptopDeals/asus-zenbook-pro-duo-ux582.jpg";
-import Hp_Spectre from "../assets/ProductImage/laptopDeals/hp-spectre-x360.jpg";
-import Apple_Macbook_Pro from "../assets/ProductImage/laptopDeals/apple-macbook-pro.jpg";
-import MSI_Raider from "../assets/ProductImage/laptopDeals/msi-ge76-raider.jpg";
-import Razer_Blade from "../assets/ProductImage/laptopDeals/razer-blade-15.jpg";
-import Dell_G5 from "../assets/ProductImage/laptopDeals/dell-g5-15.jpg";
-import LG_Gram from "../assets/ProductImage/laptopDeals/lg-gram-17.jpg";
+import Dell_XPS_15 from "/ProductImage/laptopDeals/dell-xps-15.jpg";
+import Lenovo_Thinkpad from "/ProductImage/laptopDeals/lenovo-thinkpad-x1-carbon.jpg";
+import Asus_Zenbook from "/ProductImage/laptopDeals/asus-zenbook-pro-duo-ux582.jpg";
+import Hp_Spectre from "/ProductImage/laptopDeals/hp-spectre-x360.jpg";
+import Apple_Macbook_Pro from "/ProductImage/laptopDeals/apple-macbook-pro.jpg";
+import MSI_Raider from "/ProductImage/laptopDeals/msi-ge76-raider.jpg";
+import Razer_Blade from "/ProductImage/laptopDeals/razer-blade-15.jpg";
+import Dell_G5 from "/ProductImage/laptopDeals/dell-g5-15.jpg";
+import LG_Gram from "/ProductImage/laptopDeals/lg-gram-17.jpg";
 
 
 export const LaptopDetail = [
@@ -2126,15 +2126,15 @@ export const LaptopDetail = [
 
 
 ////////////// Headphones Deals ///////////////////////////
-import Sony_WH from "../assets/ProductImage/headphonesDeals/sony-wh-1000xm4.jpg";
-import Bose_QuietComfort from "../assets/ProductImage/headphonesDeals/bose-quietcomfort-35-ii.jpg";
-import Sennheiser_Momentum from "../assets/ProductImage/headphonesDeals/sennheiser-momentum-3.jpg";
-import Jabra_Elite from "../assets/ProductImage/headphonesDeals/jabra-elite-85h.jpg";
-import Apple_Airpods_Pro from "../assets/ProductImage/headphonesDeals/apple-airpods-pro.jpg";
-import Bowers_Wilkins from "../assets/ProductImage/headphonesDeals/bowers-wilkins-px7.jpg";
-import Beats_Studio3 from "../assets/ProductImage/headphonesDeals/beats-studio3-wireless.jpg";
-import JBL_Live from "../assets/ProductImage/headphonesDeals/jbl-live-650btnc.jpg";
-// import LG_Gram from "../assets/ProductImage/laptopDeals/lg-gram-17.jpg";
+import Sony_WH from "/ProductImage/headphonesDeals/sony-wh-1000xm4.jpg";
+import Bose_QuietComfort from "/ProductImage/headphonesDeals/bose-quietcomfort-35-ii.jpg";
+import Sennheiser_Momentum from "/ProductImage/headphonesDeals/sennheiser-momentum-3.jpg";
+import Jabra_Elite from "/ProductImage/headphonesDeals/jabra-elite-85h.jpg";
+import Apple_Airpods_Pro from "/ProductImage/headphonesDeals/apple-airpods-pro.jpg";
+import Bowers_Wilkins from "/ProductImage/headphonesDeals/bowers-wilkins-px7.jpg";
+import Beats_Studio3 from "/ProductImage/headphonesDeals/beats-studio3-wireless.jpg";
+import JBL_Live from "/ProductImage/headphonesDeals/jbl-live-650btnc.jpg";
+// import LG_Gram from "/ProductImage/laptopDeals/lg-gram-17.jpg";
 
 export const headphonesDetail = [
   {
