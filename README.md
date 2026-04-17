@@ -23,7 +23,7 @@ This e-commerce application provides:
 - **Product Browsing**: Browse and search products with category filtering
 - **Shopping Cart**: Add/remove items, manage quantities
 - **Checkout System**: Secure order placement with shipping information
-- **Order Management**: Order confirmation and tracking
+- **Order Management**: Order confirmation 
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
 ### Current Status
@@ -31,7 +31,6 @@ This e-commerce application provides:
 - ✅ Frontend pages completed (Home, Products, Cart, Checkout, OrderSuccess)
 - ✅ Database schema designed
 - ✅ Context API for state management
-- ✅ Session-based cart management
 
 ---
 
@@ -63,9 +62,9 @@ This e-commerce application provides:
 ## 📁 Project Structure
 
 ```
-amazon2/
+amazon-clone/
 │
-├── frontend/ (root directory for simplicity)
+├── amazon/ (root directory)
 │   ├── src/
 │   │   ├── Components/                 # Reusable UI components
 │   │   │   ├── Header.jsx
@@ -95,11 +94,6 @@ amazon2/
 │   │   ├── Data/                       # Mock data (to be removed)
 │   │   │   ├── data.js
 │   │   │   ├── ProductDetail.js
-│   │   │   └── ...
-│   │   │
-│   │   ├── assets/                     # Static files
-│   │   │   ├── Banner/
-│   │   │   ├── ProductImage/
 │   │   │   └── ...
 │   │   │
 │   │   └── App.jsx                     # Root component
@@ -138,7 +132,7 @@ amazon2/
 │
 ├── database_schema.sql                 # Complete database schema
 ├── README.md                           # This file
-└── .env                                # Frontend environment variables
+└── MySQL dump 10.13  Distrib 8.0.39.txt   # UTF-8-encoded sql schema
 
 ```
 
@@ -159,7 +153,6 @@ amazon2/
 | **order_items** | Line items in orders | Many-to-one with orders |
 | **users** | User accounts (future use) | Ready for authentication |
 
-See `database_schema.sql` for complete SQL definitions.
 
 ---
 
@@ -172,7 +165,8 @@ See `database_schema.sql` for complete SQL definitions.
 
 ### Step 1: Clone/Setup Project
 ```bash
-cd d:\amazon2
+git clone repo_url
+cd amazon-clone
 ```
 
 ### Step 2: Setup Database
@@ -228,7 +222,7 @@ cd d:\amazon2
 
 1. **Navigate to frontend folder**:
    ```bash
-   cd ../
+   cd ../amazon
    ```
 
 2. **Install dependencies**:
@@ -288,7 +282,7 @@ GET    /orders/:orderId           # Get order by ID
 GET    /orders/number/:orderNumber # Get order by number
 ```
 
-See `backend/routes` for detailed request/response examples.
+
 
 ---
 
@@ -302,7 +296,6 @@ See `backend/routes` for detailed request/response examples.
 - Shopping cart management
 - Checkout form with validation
 - Order placement & confirmation
-- Session-based persistence
 - Responsive design (mobile/tablet/desktop)
 - Error handling & validation
 
@@ -320,54 +313,12 @@ See `backend/routes` for detailed request/response examples.
 
 ## 📋 Assumptions
 
-1. **Session-Based Cart**: `user_id` is stored in localStorage and used for cart identification
+1. **Session-Based Cart**: `user_id` is stored in localStorage or hardcoded and used for cart identification
 2. **No Real Payments**: Demo payment methods accepted without actual processing
 3. **Free Shipping**: All orders have free shipping
 4. **Stock Checking**: Stock validated during cart/order operations
 5. **Connection Pooling**: Uses mysql2/promise for optimal database performance
 6. **CORS Enabled**: Backend accepts requests from configured frontend URL
-
----
-
-## 🧹 Cleanup: Removing Mock Data
-
-### Files Using Mock Data
-
-The following files contain hardcoded test data and can be removed after verifying backend integration:
-
-```
-src/Data/data.js
-src/Data/ProductDetail.js
-src/Data/ProductPageDetail.js
-src/Data/SliderDetail.js
-src/Details/OfferDetail.js
-```
-
-### Components That Need Migration
-
-These components should be updated to use the Service layer instead of mock data:
-
-1. **src/Pages/Home.jsx** → Use `productService.fetchProducts()`
-2. **src/Pages/ProductPaga.jsx** → Use `productService.fetchProductById()`
-3. **src/Components/ProductSlider.jsx** → Use API calls instead of imports
-
-### Steps to Clean Up
-
-```bash
-# 1. Remove mock data files
-rm src/Data/data.js
-rm src/Data/ProductDetail.js
-rm src/Data/ProductPageDetail.js
-rm src/Data/SliderDetail.js
-rm src/Details/OfferDetail.js
-
-# 2. Update components to use Services
-# Edit src/Pages/Home.jsx, ProductPaga.jsx, etc.
-# Replace imports with useEffect hooks calling Services
-
-# 3. Test thoroughly
-npm run dev
-```
 
 ---
 
@@ -417,5 +368,4 @@ This project demonstrates:
 
 ---
 
-**Version**: 1.0.0 | **Last Updated**: January 2024
 
